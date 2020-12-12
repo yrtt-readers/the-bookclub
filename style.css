@@ -1,0 +1,51 @@
+
+
+img {
+    width: 50%;
+}
+
+/**
+ * Header CSS
+ */
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+}
+
+header ul.mui-list--inline {
+  margin-bottom: 0;
+}
+
+header a {
+  color: #fff;
+}
+
+/**
+ * Content CSS
+ */
+.container-margin {
+    margin-top: 5%;
+}
+
+p {
+    padding: 5%;
+}
+
+
+/**
+ * Footer CSS
+ */
+footer {
+    display: block;
+    box-sizing: border-box;
+    height: 100px;
+    background-color: #eee;
+    border-top: 1px solid #e0e0e0;
+    padding-top: 35px;
+}
+
+
+
