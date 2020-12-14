@@ -1,4 +1,6 @@
-
+* {
+  margin: 0px;
+}
 
 img {
     width: 50%;
@@ -15,37 +17,46 @@ header {
   z-index: 2;
 }
 
-header ul.mui-list--inline {
-  margin-bottom: 0;
-}
-
 header a {
-  color: #fff;
+  color: rgb(34, 71, 126);
 }
 
 /**
  * Content CSS
  */
 .container-margin {
-    margin-top: 5%;
+    margin-top: 5rem;
 }
 
-p {
+p .text-center {
     padding: 5%;
 }
 
-
-/**
- * Footer CSS
- */
-footer {
-    display: block;
-    box-sizing: border-box;
-    height: 100px;
-    background-color: #eee;
-    border-top: 1px solid #e0e0e0;
-    padding-top: 35px;
+.booklist {
+  background-color: grey;
+  padding: 1%
 }
 
+.book {
+  background-color: rgb(202, 202, 202);
+  padding: 5%;
+}
 
+footer {
+  display: block;
+}
+
+img.img-thumbnail {
+  float: left;
+  margin-right: 2%;
+}
+
+p.book-description {
+  margin-bottom: 0px;
+  padding-left: 2%;
+}
+
+button.request {
+  margin-top: 2%;
+}
 
