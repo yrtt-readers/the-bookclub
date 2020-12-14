@@ -3,8 +3,11 @@
 ## List of books avalible
 
 Due Date: **15th December 2020**
+
 Classwork: **Component and Dynamic Data**
+
 Teacher: **James Heggs**
+
 Team: **Readers (Samantha Burke, Winndie Fan, Rebeca Sciamanna, Anita Caron)**
 
 ### Book container
