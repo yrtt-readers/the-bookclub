@@ -1,4 +1,4 @@
-{"user_id":"student1","role":"student"},
+[{"user_id":"student1","role":"student"},
 {"user_id":"student2","role":"student"},
 {"user_id":"student3","role":"student"},
 {"user_id":"teacher1","role":"teacher"},
@@ -6,4 +6,4 @@
 {"user_id":"teacher3","role":"teacher"},
 {"user_id":"parent1","role":"parent"},
 {"user_id":"parent2","role":"parent"},
-{"user_id":"parent3","role":"parent"}
+{"user_id":"parent3","role":"parent"}]
