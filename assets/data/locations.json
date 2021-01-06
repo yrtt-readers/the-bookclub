@@ -1,4 +1,12 @@
 [
-{"address":"Hogwarts School of Witchcraft","postcode":"WD25 7LR"},
-{"address":"221B Baker Street","postcode":"NW1 6XE"}
+{
+ "address":"Hogwarts School of Witchcraft",
+ "postcode":"WD25 7LR",
+ "img":"https://yrtt-readers.github.io/the-bookclub/assets/images/hogwarts.jpg"
+},
+{
+ "address":"221B Baker Street",
+ "postcode":"NW1 6XE",
+ "img":"https://yrtt-readers.github.io/the-bookclub/assets/images/baker.jpg"
+}
 ]
